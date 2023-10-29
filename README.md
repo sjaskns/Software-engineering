@@ -58,7 +58,7 @@ x, y, z = True, not True, not not True
 print(x, y, z)
 ```
 ### Результат.
-![Меню]()
+![Меню](https://github.com/sjaskns/Software-engineering/pull/1)
 ## Вывод
  В этом коде используется операторы not и присваиваивается значения переменным x, y, и z. Затем выводятся в консоль.
   
