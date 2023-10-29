@@ -47,7 +47,7 @@ x = not True
 print(x)
 ```
 ### Результат.
-![Меню]()
+![Меню](https://github.com/sjaskns/Software-engineering/blob/Lab_2/Pic/lab%201.1.png)
 - Развернутый вывод
   
 ## Самостоятельная работа №2
